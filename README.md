@@ -1,8 +1,8 @@
 ## Приветствую 👋 я C# Backend Developer
 
 ## Навыки
-- Стек: C#, .NET Core 6.0
-- Backend: ASP.NET Core MVC
+- Стек: C#, .NET Core/Framework
+- Backend: ASP.NET Core
 - Frontend: Blazor, HTML5, CSS3, Bootstrap, JavaScript, TypeScript
 - Desktop: WinForms, WPF, Xamarin
 - ORM: Entity Framework Core
