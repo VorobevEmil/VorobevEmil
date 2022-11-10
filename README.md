@@ -1,12 +1,9 @@
-## Приветствую 👋 я C# Backend Developer
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6258FF&width=435&lines=Hi%2C+I'm+C%23+Backend+Developer)](https://git.io/typing-svg)
 
-## Навыки
-- Стек: C#, .NET Core/Framework
-- Backend: ASP.NET Core
-- Frontend: Blazor, HTML5, CSS3, Bootstrap, JavaScript, TypeScript
-- Desktop: WinForms, WPF, Xamarin
-- ORM: Entity Framework Core
-- Базы данных: MySQL, MSSQL, SQLite
-- Прочие технологии: Git, LINQ, SQL, Swagger, xUnit, REST API, JSON, HTTP
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VorobevEmil&theme=radical)
 
-![](https://github-readme-stats.vercel.app/api?username=VorobevEmil&show_icons=true&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VorobevEmil&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VorobevEmil&theme=radical)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VorobevEmil&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=VorobevEmil&theme=radical)
