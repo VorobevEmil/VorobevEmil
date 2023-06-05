@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6258FF&width=435&lines=Hi%2C+I'm+C%23+Backend+Developer)]
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6258FF&width=435&lines=Hi%2C+I'm+C%23+Backend+Developer)
 
 
 # 💻 Tech Stack:
@@ -12,4 +12,4 @@
 ![](https://github-profile-trophy.vercel.app/?username=VorobevEmil&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=VorobevEmil&icon=0&color=0)]
+![](https://visitcount.itsvg.in/api?id=VorobevEmil&icon=0&color=0)
